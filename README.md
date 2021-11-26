@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chris Kern</h1>
-<h3 align="center">...a passionate full stack (junior) developer from Austria.</h3>
+<h3 align="center">...a passionate web developer from Austria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chriskerncode&label=Profile%20views&color=0e75b6&style=flat" alt="chriskerncode" /> </p>
 
-- 🌱 I’m currently learning **react, MERN Stack, responsive web design, jQuery**
+- 🌱 I’m currently learning **Responsive Web Design**
 
 - 👯 I’m looking to collaborate on **"...coding social impact"**
 
