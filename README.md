@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Responsive Web Design**
 
-- 👯 I’m looking to collaborate on **"...coding social impact"**
+- 👯 I’m looking to collaborate on **"Coding Social Impact"**
 
 - 💬 Ask me about **JavaScript**
 
